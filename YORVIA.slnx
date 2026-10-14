@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="YORVIA.API/YORVIA.API.csproj" Id="253c164f-3f96-4982-a141-f5365da89012" />
+  <Project Path="YORVIA.Application/YORVIA.Application.csproj" Id="13fec3ae-147d-4756-98c5-9a922dc83e01" />
+  <Project Path="YORVIA.Domain/YORVIA.Domain.csproj" Id="3e360035-65c5-4287-9d25-181ce2ea4b14" />
+  <Project Path="YORVIA.Infrastructure/YORVIA.Infrastructure.csproj" Id="d3a74486-0b85-4b32-8cd8-5acdec8efe7a" />
+  <Project Path="YORVIA.Tests/YORVIA.Tests.csproj" Id="a7077eee-f685-4273-a032-0fdb42d724dd" />
+</Solution>

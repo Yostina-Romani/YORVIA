@@ -1,0 +1,6 @@
+@YORVIA_HostAddress = http://localhost:5220
+
+GET {{YORVIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
