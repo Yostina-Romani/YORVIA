@@ -7,6 +7,7 @@
         public string Message { get; set; } = string.Empty;
         public string? Email { get; set; }
 
+
         public Dictionary<string, string[]> Errors { get; set; } = new Dictionary<string, string[]>();
     }
 }
